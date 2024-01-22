@@ -8,3 +8,5 @@
 - ✅ [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) 
 - ❎ [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150) 
 - ❎ [55. Jump Game](https://leetcode.com/problems/jump-game/?envType=study-plan-v2&envId=top-interview-150) 
+- ✅ [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
+
