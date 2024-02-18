@@ -18,6 +18,8 @@
 - ✅ [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
 - ✅ [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)
     - a little bit hard, need to review.
+- ❎ [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) 
+    - hard!!!
  
 
 
