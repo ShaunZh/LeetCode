@@ -1,5 +1,6 @@
 # Leetcode 
 
+
 - ✅ [27. Remove Element](https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150)
 - ✅ [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
 - ❎ [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150)
@@ -15,5 +16,8 @@
 - ✅ [977.squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 - ✅ [209.minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 - ✅ [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
+- ✅ [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)
+    - a little bit hard, need to review.
+ 
 
 
