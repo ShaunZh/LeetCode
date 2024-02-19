@@ -1,6 +1,9 @@
-# Leetcode 
+### some tips
+- Use `Math.floor()`、`Math.ceil()` and `Math.round()` to round numbers when necessary.
+- focus on the edge cases.
 
 
+### My solution
 - ✅ [27. Remove Element](https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150)
 - ✅ [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
 - ❎ [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150)
@@ -20,6 +23,8 @@
     - a little bit hard, need to review.
 - ❎ [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) 
     - hard!!!
+- ❎ [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)
+    - medium，need to review
  
 
 
