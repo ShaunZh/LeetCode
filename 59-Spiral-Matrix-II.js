@@ -3,7 +3,7 @@
  * @Author: Zhang jie
  * @Date: 2024-02-19 15:23:23
  * @LastEditors: Zhang jie
- * @LastEditTime: 2024-02-19 15:26:43
+ * @LastEditTime: 2024-02-19 15:27:50
  */
 /**
  * @param {number} n
@@ -16,7 +16,7 @@ var generateMatrix = function (n) {
     let startY = 0;
     let count = 1;
     let offset = 1;
-    // creat two-dimentional array
+    // creat two-dimensional array
     const arr = new Array(n).fill(0).map(() => new Array(n).fill(0));
     while (loop--) {
         let col = startX;
