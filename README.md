@@ -25,6 +25,8 @@
     - hard!!!
 - ❎ [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)
     - medium，need to review
+- ❎ [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+    - medium，need to understand
  
 
 
