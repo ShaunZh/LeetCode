@@ -1,3 +1,20 @@
+
+### how to solve
+1. spend 10 minutes to understand the problem
+2. spend 10 minutes to write the code
+3. spend 10 minutes to optimize the code
+4. spend 10 minutes to test the code
+
+5. if you don't know how to solve the problem
+    - spend 10 minutes to read the solutions
+    - spend 10 minutes to understand the solutions
+    - spend 10 minutes to write the solutions
+    - spend 10 minutes to optimize the solutions
+6. if you don't understand the solutions
+    - let ChatGPT to explain the solution.
+
+
+
 ### some tips
 - Use `Math.floor()`、`Math.ceil()` and `Math.round()` to round numbers when necessary.
 - focus on the edge cases.
