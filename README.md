@@ -48,3 +48,4 @@
 
 - Linked List
     - ✅ [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
+    - ✅ [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/)
