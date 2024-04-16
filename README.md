@@ -51,5 +51,6 @@
     - ✅ [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/)
     - ✅ [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
     - ❎ [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
-        - medium，need to understand
+    - ✅ [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+        - medium，need to understand this solution: two points
 
