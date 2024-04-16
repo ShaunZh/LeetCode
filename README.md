@@ -53,4 +53,6 @@
     - ❎ [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
     - ✅ [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
         - medium，need to understand this solution: two points
+    - ✅ [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+        - medium，need to understand this solution: two points
 
