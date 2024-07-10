@@ -58,3 +58,5 @@
     - ✅ [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
         - medium，two pointers, need to understand the second step 
 
+- Hash Table
+    - ❎ [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) 
