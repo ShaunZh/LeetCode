@@ -61,3 +61,4 @@
 - Hash Table
     - ❎ [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) 
     - ✅ [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) 
+    - ✅ [202. Happy Number](https://leetcode.com/problems/happy-number/description/) 
