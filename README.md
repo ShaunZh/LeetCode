@@ -64,3 +64,5 @@
     - ✅ [202. Happy Number](https://leetcode.com/problems/happy-number/description/) 
     - ✅ [1. Two Sum](https://leetcode.com/problems/two-sum/description/) 
     - ❎ [454. 4Sum II](https://leetcode.com/problems/4sum-ii/description/) 
+    - ✅ [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/) 
+
