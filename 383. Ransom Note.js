@@ -8,13 +8,14 @@
  */
 var canConstruct_using_array = function (ransomNote, magazine) {
     const arr = new Array(26).fill(0);
+    const base = 'a'.charCodeAt();
 
-    for (let i = 0, len = magazine.length; i < len; i++) {
-        const utf16code = magazine[i].charCodeAt() - 97;
+    for (l of magazine) {
+        const utf16code = l.charCodeAt() - base;
         arr[utf16code] += 1;
     }
-    for (let i = 0, len = ransomNote.length; i < len; i++) {
-        const utf16code = ransomNote[i].charCodeAt() - 97;
+    for (l of ransomNote) {
+        const utf16code = l.charCodeAt() - base;
         if (!arr[utf16code]) {
             return false;
         }
