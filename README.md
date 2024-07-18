@@ -24,12 +24,12 @@
 - Array
     - ✅ [27. Remove Element](https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150)
     - ✅ [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
-    - ❎ [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150)
-    - ❎ [169. Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)
+    - ❌ [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150)
+    - ❌ [169. Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)
     - ✅ [189. Rotato Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150)
     - ✅ [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) 
-    - ❎ [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150) 
-    - ❎ [55. Jump Game](https://leetcode.com/problems/jump-game/?envType=study-plan-v2&envId=top-interview-150) 
+    - ❌ [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150) 
+    - ❌ [55. Jump Game](https://leetcode.com/problems/jump-game/?envType=study-plan-v2&envId=top-interview-150) 
     - ✅ [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
     - ✅ [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
     - ✅ [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
@@ -39,18 +39,18 @@
     - ✅ [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
     - ✅ [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)
         - a little bit hard, need to review.
-    - ❎ [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) 
+    - ❌ [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) 
         - hard!!!
-    - ❎ [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)
+    - ❌ [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)
         - medium，need to review
-    - ❎ [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+    - ❌ [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
         - medium，need to understand
 
 - Linked List
     - ✅ [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)
     - ✅ [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/)
     - ✅ [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
-    - ❎ [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
+    - ❌ [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
     - ✅ [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
         - medium，need to understand this solution: two points
     - ✅ [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
@@ -59,10 +59,13 @@
         - medium，two pointers, need to understand the second step 
 
 - Hash Table
-    - ❎ [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) 
+    - ❌ [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) 
     - ✅ [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) 
     - ✅ [202. Happy Number](https://leetcode.com/problems/happy-number/description/) 
     - ✅ [1. Two Sum](https://leetcode.com/problems/two-sum/description/) 
-    - ❎ [454. 4Sum II](https://leetcode.com/problems/4sum-ii/description/) 
+    - ❌ [454. 4Sum II](https://leetcode.com/problems/4sum-ii/description/) 
     - ✅ [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/) 
+   
+- Two pointer
+    - ❌ [15. 3Sum](https://leetcode.com/problems/3sum/description/) 
 
