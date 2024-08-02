@@ -71,4 +71,5 @@
     - ❌ [18. 4Sum](https://leetcode.com/problems/4sum/description/) 
 
 - String
-     - ✅ [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) 
+    - ✅ [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) 
+    - ❌ [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) 
