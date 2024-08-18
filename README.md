@@ -76,3 +76,8 @@
     - ❌ [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) 
     - ✅ [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) 
     - ❌ [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) 
+
+- Stack and Queue 
+    - ❌ [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
+    - ❌ [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+    
