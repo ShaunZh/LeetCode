@@ -80,4 +80,5 @@
 - Stack and Queue 
     - ❌ [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
     - ❌ [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+    - ❌ [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/): need use stack to solve, but I used a brute force solution
     
