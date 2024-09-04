@@ -84,4 +84,10 @@
     - ❌ [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
     - ❌ [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
     - ✅ [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) 
+
+- Binary Tree
+    - ✅ [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) 
+    - ✅ [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) 
+    - ✅ [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) 
+
     
